@@ -3,8 +3,8 @@
  
 https://web-development-environments-2023.github.io/205795016_311163018/
 
-Daniel Hodisan - 205795016
-Omri Man - 311163018
+Daniel Hodisan
+Omri Man 
 
 Functions:
 1) Medicine - when the player reach the medicine he gets another life.
